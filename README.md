@@ -25,6 +25,7 @@ Built by [Marshall Roberson](https://marshallroberson24-ux.github.io)
 | Policies with wildcard (*) resources | HIGH |
 | Root account MFA disabled | CRITICAL |
 | Root account access keys present | CRITICAL |
+| Access keys with read-only permissions | LOW |
 
 ## Example Output
 
