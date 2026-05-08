@@ -26,8 +26,11 @@ Built by [Marshall Roberson](https://marshallroberson24-ux.github.io)
 | Root account MFA disabled | CRITICAL |
 | Root account access keys present | CRITICAL |
 
+## Example Output
+
+The following scan was run against a live AWS account and detected 3 real security findings including a critical root account vulnerability.
+
 ![IAMGuard Scan Output](scan_output.png)
----
 
 ## Installation
 
