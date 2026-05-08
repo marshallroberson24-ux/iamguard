@@ -26,6 +26,7 @@ Built by [Marshall Roberson](https://marshallroberson24-ux.github.io)
 | Root account MFA disabled | CRITICAL |
 | Root account access keys present | CRITICAL |
 
+![IAMGuard Scan Output](scan_output.png)
 ---
 
 ## Installation
