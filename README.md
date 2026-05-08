@@ -30,7 +30,15 @@ Built by [Marshall Roberson](https://marshallroberson24-ux.github.io)
 
 The following scan was run against a live AWS account and detected 3 real security findings including a critical root account vulnerability.
 
-![IAMGuard Scan Output](scan_output.png)
+### IAMGuard Banner
+![IAMGuard Banner](scan_output.png)
+
+### Live Scan Results
+![Live Scan Results](scan_output2.png)
+
+### Scan Summary
+![Scan Summary](scan_output3.png)
+
 
 ## Installation
 
